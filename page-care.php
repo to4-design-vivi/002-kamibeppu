@@ -49,7 +49,7 @@ Template Name: care
     <h3>施設運営の方へ</h3>
     <div class="for_facility col-md-7 col-sm-7 col-xs-12">
         <p>
-            介護職員の方が薬局までお薬を取りに来られていませんか？私たち上別府グループ調剤薬局では、お薬を調剤するだけではなく
+	            介護職員の方が薬局までお薬を取りに来られていませんか？私たち上別府コミュニティファーマシーでは、お薬を調剤するだけではなく
             「介護施設における医療」を薬局・薬剤師がどうすれば支えることができるのかを考え、これからお手伝いできればと考えております。
         </p>
         <p>
@@ -61,19 +61,19 @@ Template Name: care
         <img src="<?php bloginfo('template_directory'); ?>/img/care/for_facility.png" alt="施設運営の方へ">
     </div>
 
-    <h3>サービスご利用料金</h3>
-    <table class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
-        <tr class="service_price01">
-            <th>介護保険をご利用の方</th>
-            <td>１回の訪問ごとに352円～503円がかかります。</td>
-        </tr>
-        <tr class="service_price02">
-            <th>医療保険をご利用の方</th>
-            <td>負担割合により金額が異なります。</td>
-        </tr>
-    </table>
+<!--    <h3>サービスご利用料金</h3>-->
+<!--    <table class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">-->
+<!--        <tr class="service_price01">-->
+<!--            <th>介護保険をご利用の方</th>-->
+<!--            <td>１回の訪問ごとに352円～503円がかかります。</td>-->
+<!--        </tr>-->
+<!--        <tr class="service_price02">-->
+<!--            <th>医療保険をご利用の方</th>-->
+<!--            <td>負担割合により金額が異なります。</td>-->
+<!--        </tr>-->
+<!--    </table>-->
     <div class="care_contact col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
-        <p>分からない事など、まずはお気軽にご連絡ください。</p>
+        <p>ご不明点等ございましたら、まずはお気軽にご連絡ください。</p>
         <table>
             <tr>
                 <th>【TEL・FAXからの問い合わせ】</th>
